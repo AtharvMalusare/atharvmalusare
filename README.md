@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TensorFlow,React.Js**
 
-- 📝 I regularly write articles on [https://medium.com/@atharvmalusare/a-comparative-study-on-monocular-depth-estimation-a12f6b847087](https://medium.com/@atharvmalusare/a-comparative-study-on-monocular-depth-estimation-a12f6b847087)
+- 📝 I regularly write articles on [https://medium.com/@atharvmalusare]
 
 - 💬 Ask me about **Computer Vision**
 
