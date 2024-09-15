@@ -11,9 +11,9 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ILWtRg7eFSMRNiTHRCPymO64l1RqiOvt/view?usp=drive_link)
 
-<h3 align="left">Statistics (if anyone interested):</h3>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvMalusare&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvMalusare&theme=aura_dark)
+<h3 align="left">Statistics (They are Pathetic):</h3>
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvMalusare&theme=aura_dark)]
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvMalusare&theme=aura_dark)]
 
 
 <h3 align="left">Connect with me:</h3>
