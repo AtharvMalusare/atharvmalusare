@@ -11,6 +11,11 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ILWtRg7eFSMRNiTHRCPymO64l1RqiOvt/view?usp=drive_link)
 
+<h3 align="left">Statistics (if anyone interested):</h3>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvMalusare&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvMalusare&theme=aura_dark)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atharvmalusare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharvmalusare" height="30" width="40" /></a>
