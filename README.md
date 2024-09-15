@@ -1,4 +1,5 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--LDCCzQ8S--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qi1uzar0x3g3m9n8fh5v.gif)
+[![](https://visitcount.itsvg.in/api?id=ATHARVMALUSARE&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Atharv Malusare</h1>
 <h3 align="center">Passionate Machine learning Engineer , mainly working on Deep Learning and Computer Vision.</h3>
 
