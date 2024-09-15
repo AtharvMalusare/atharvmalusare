@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow,React.Js**
 
-- 📝 I regularly write articles on [https://medium.com/@atharvmalusare]
+- 📝 I sometimes write articles on [https://medium.com/@atharvmalusare]
 
 - 💬 Ask me about **Computer Vision**
 
